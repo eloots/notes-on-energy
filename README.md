@@ -19,6 +19,14 @@ Collection of articles / papers on all things energy
 
 - [World Energy Transitions Outlook 2022](https://irena.org/publications/2022/mar/world-energy-transitions-outlook-2022)
 
+## Australia
+
+### Giles Parkinson
+
+- [Renew Economy](https://reneweconomy.com.au/)
+- [One step off the grid](https://onestepoffthegrid.com.au/)
+- [The Driven](https://thedriven.io/)
+
 ## Applying principles from Distributed Systems to energy systems
 
 - Article [Packetized Energy](https://www.canarymedia.com/articles/grid-edge/energyhub-buys-packetized-energy-to-get-millions-of-thermostats-and-evs-to-help-balance-the-grid).
